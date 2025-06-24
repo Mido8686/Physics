@@ -8,6 +8,7 @@ Physics Source Code is 100% Source Code written in Python.
 
 This project honors the minds who discovered the laws we now encode:
 
+- **Mohamed Zeidan** — source code
 - **Galileo Galilei** — kinematics, scientific method  
 - **Isaac Newton** — classical mechanics, gravity  
 - **James Clerk Maxwell** — electromagnetism  
@@ -16,3 +17,6 @@ This project honors the minds who discovered the laws we now encode:
 - **Marie Curie** — radioactivity  
 - **Richard Feynman** — quantum electrodynamics  
 - and many more...
+# License
+Physics as a field of science does not require a license.
+However, Physics is a science that anyone can learn and apply without needing a license.
